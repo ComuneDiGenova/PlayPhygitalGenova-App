@@ -27,6 +27,13 @@ La gestione dell'autenticazione è garantita dal sistema SIRAC SSO che è defini
 Noto il CF dell'utente il sistema verifica in una tabella del DB l'appartenenza dell'utente tra quelli di sistema.
 
 
+## Requisiti
+
+Applicazione è stata realizzata usando Unity 2019.3.29f1 lts
+Utilizza la realtà aumentata quindi per una fruizione completa dell'esperienza è consigliato utilizzare uno smartphone che supporta il modulo ARCore(Android) o ARKit(iOS)
+
+* Versione minima di Android 7.1
+* Versione minima per iOS 12.0
 
 
 ## Versioning
