@@ -1,0 +1,184 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1690321210040,
+        "query": {
+            "coordinates": [
+                [
+                    10.629460078859,
+                    45.4034496936442
+                ],
+                [
+                    10.6251376206085,
+                    45.3990645353618
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "json"
+        },
+        "engine": {
+            "version": "7.1.0",
+            "build_date": "2023-07-09T01:31:50Z",
+            "graph_date": "2023-07-16T22:10:37Z"
+        }
+    },
+    "bbox": [
+        10.625137,
+        45.399045,
+        10.62949,
+        45.403452
+    ],
+    "features": [
+        {
+            "bbox": [
+                10.625137,
+                45.399045,
+                10.62949,
+                45.403452
+            ],
+            "type": "Feature",
+            "properties": {
+                "transfers": 0,
+                "fare": 0,
+                "segments": [
+                    {
+                        "distance": 658.2,
+                        "duration": 473.9,
+                        "steps": [
+                            {
+                                "distance": 417.5,
+                                "duration": 300.6,
+                                "type": 11,
+                                "instruction": "Head south",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 67.6,
+                                "duration": 48.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Via Cavriana",
+                                "name": "Via Cavriana",
+                                "way_points": [
+                                    9,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 169,
+                                "duration": 121.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Via Caduti di Nassiriya",
+                                "name": "Via Caduti di Nassiriya",
+                                "way_points": [
+                                    11,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 4.1,
+                                "duration": 2.9,
+                                "type": 1,
+                                "instruction": "Turn right onto Via Solferino",
+                                "name": "Via Solferino",
+                                "way_points": [
+                                    13,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 0,
+                                "duration": 0,
+                                "type": 10,
+                                "instruction": "Arrive at Via Solferino, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    14
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    14
+                ],
+                "summary": {
+                    "distance": 658.2,
+                    "duration": 473.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        10.629485,
+                        45.403452
+                    ],
+                    [
+                        10.62949,
+                        45.403425
+                    ],
+                    [
+                        10.629481,
+                        45.403366
+                    ],
+                    [
+                        10.629026,
+                        45.402716
+                    ],
+                    [
+                        10.628967,
+                        45.402633
+                    ],
+                    [
+                        10.628667,
+                        45.402214
+                    ],
+                    [
+                        10.628584,
+                        45.402098
+                    ],
+                    [
+                        10.628521,
+                        45.402003
+                    ],
+                    [
+                        10.628282,
+                        45.401643
+                    ],
+                    [
+                        10.62711,
+                        45.400098
+                    ],
+                    [
+                        10.626484,
+                        45.400285
+                    ],
+                    [
+                        10.626313,
+                        45.400337
+                    ],
+                    [
+                        10.625798,
+                        45.399664
+                    ],
+                    [
+                        10.62518,
+                        45.399045
+                    ],
+                    [
+                        10.625137,
+                        45.399064
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ]
+}

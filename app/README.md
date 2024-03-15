@@ -1,6 +1,6 @@
 # App Mobile Phygital
 
-build version 1.0.4
+build version 1.0
 
 L'applicazione è stata sviluppata utilizzando Unity e successivamente esportata per essere disponibile su dispositivi Android e iOS. Gli utenti hanno la possibilità di scegliere tra due modalità di accesso: accedere agli itinerari del comune senza registrazione o effettuare l'accesso tramite il servizio Sirac. Quest'ultimo rappresenta un servizio di autenticazione che permette l'accesso all'applicazione attraverso diversi provider come Spid, Google, Linkedin, e altri. Una volta scelto il provider di accesso preferito, l'utente procede con l'autenticazione e può quindi accedere al proprio profilo.
 

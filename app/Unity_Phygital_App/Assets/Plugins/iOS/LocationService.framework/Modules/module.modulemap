@@ -1,0 +1,6 @@
+framework module LocationService {
+  umbrella header "LocationService.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,101 @@
+ID,IT,EN,FR,DE,ES,RU
+ID_Accedi,Accedi a PlayPhygital,Log Into PlayPhygital,Accéder à PlayPhygital,Bei PlayPhygital anmelden,Iniciar sesión en PlayPhygital,Войти в PlayPhygital
+ID_Accedi_BTN,Accedi,Log In,Se Connecter,Einloggen,Iniciar sesión,Авторизоваться
+ID_NonRegistrarti_BTN,Continua Senza Registrarti,Log In without registering,Continuer sans s'inscrire,Einloggen ohne Registrierung,Iniciar sesión sin registro,Продолжить без регистрации
+ID_AccediCommerciante_BTN,Accedi Come Commerciante,Log In as merchant,Se Connecter en tant que commerçant,Als Händler einloggen,Iniciar sesión como comerciante,Войти как торговец
+ID_ImpostazioniCommerciante_TXT,I tuoi dati,Go to settings,Aller aux paramètres,Gehe zu den Einstellungen,Ir a configuración,Перейти к настройкам
+ID_Aiuto_BTN,Aiuto,Help,Aide,Hilfe,Ayuda,Помощь
+ID_Aiuto_TXT,Aiuto,Help,Aide,Hilfe,Ayuda,Помощь
+ID_AiutoItinerari,Itinerari,Itineraries,Itinéraires,Reiseplanung,Itinerarios,Маршруты
+ID_AiutoPreferiti,I miei itinerari preferiti,My favorite itineraries,Mes itinéraires préférés,Meine bevorzugten Reiseplanungen,Mis itinerarios favoritos,Мои любимые маршруты
+ID_AiutoPuntoAcquisto,Punti acquisto,Purchase points,Points d'achat,Einkaufspunkte,Puntos de compra,Точки покупки
+ID_Vicino,Vicino a me,Near Me,À proximité de moi,In meiner Nähe,Cerca de mí,Рядом со мной
+ID_PuntiStorici,Attrazioni Turistiche,Tourist attractions,Attractions touristiques,Sehenswürdigkeiten,Atracciones turísticas,Достопримечательности
+ID_Negozi,Negozi,Shops,Magasins,Läden,Tiendas,Магазины
+ID_Botteghe,Botteghe Storiche,Historical shops,Boutiques historiques,Historische Geschäfte,Tiendas históricas,Исторические магазины
+ID_PuntiGenovini_BTN,Genovini,Genovini,Genovini,Genovini,Genovini,Геновины
+ID_GeneraQR_BTN,Genera QR Code,Generate QR Code,Générer un code QR,QR-Code generieren,Generar código QR,Генерировать QR-код
+ID_IlTuoID,Il tuo ID:,Your ID:,Votre ID:,Deine ID:,Tu ID:,Ваш ID:
+ID_PuntiGenovini_TXT,Guadagna i Genovini,Earn Genovini,Gagnez des Genovini,Verdiene Genovini,Gana Genovini,Зарабатывайте Геновины
+ID_Itinerari_BTN,Itinerari,Itineraries,Itinéraires,Reiseplanung,Itinerarios,Маршруты
+ID_ScegliItinerario,Segli il tuo tipo di itinerario:,Choose your type of itinerary:,Choisissez votre type d'itinéraire:,Wählen Sie Ihren Reiseplan:,Elige tu tipo de itinerario:,Выберите свой тип маршрута:
+ID_ItinerariComune_BTN,Itinerari del Comune di Genova,Genoa Municipality Itineraries,Itinéraires de la Municipalité de Gênes,Reiseplanungen der Stadt Genua,Itinerarios del Municipio de Génova,Маршруты муниципалитета Дженова
+ID_ItinerariComune,Itinerari del Comune disponibili:,Available Genoa Municipality Itineraries:,Itinéraires de la Municipalité de Gênes disponibles :,Verfügbare Reiseplanungen der Stadt Genua:,Itinerarios disponibles del Municipio de Génova:,Доступные маршруты муниципалитета Дженова:
+ID_ItinerariMiei_BTN,I miei itinerari,My itineraries,Mes itinéraires,Meine Reiseplanungen,Mis itinerarios,Мои маршруты
+ID_ItinerariMiei,Itinerari disponibili:,Available itineraries:,Itinéraires disponibles:,Verfügbare Reiseplanungen:,Itinerarios disponibles:,Доступные маршруты:
+ID_Preferiti,Punti di interesse preferiti:,Favorite points of interest:,Points d'intérêt préférés:,Favorisierte Sehenswürdigkeiten:,Puntos de interés favoritos:,Избранные точки интереса:
+ID_Preferiti_BTN,Preferiti,Favorites,Favoris,Favoriten,Favoritos,Избранное
+ID_Account_BTN,I Tuoi Dati,Your Data,Vos Données,Deine Daten,Tus Datos,Ваши данные
+ID_InformazioniAccount,I tuoi dati,Your data,Vos données,Deine Daten,Tus datos,Ваши данные
+ID_AccountNome,Nome,Name,Nom,Name,Nombre,Имя
+ID_AccountCognome,Cognome,Surname,Nom de famille,Nachname,Apellido,Фамилия
+ID_AccountEmail,Email,Email,Email,E-Mail,Email,Электронная почта
+ID_AccountUsername,Username,Username,Nom d'utilisateur,Benutzername,Nombre de usuario,Имя пользователя
+ID_AccountImmagine,Immagine del profilo,Profile picture,Image de profil,Profilbild,Imagen de perfil,Изображение профиля
+ID_AccountLogout,Logout,Logout,Déconnexion,Abmelden,Cerrar sesión,Выйти
+ID_ImpostazioniGenerali,Impostazioni Generali,General Settings,Paramètres généraux,Allgemeine Einstellungen,Configuración general,Общие настройки
+ID_ImpostazioniLingua,Seleziona lingua,Select language,Sélectionner la langue,Sprache auswählen,Seleccionar idioma,Выбрать язык
+ID_ImpostazioniNotifiche,Notifiche,Notifications,Notifications,Benachrichtigungen,Notificaciones,Уведомления
+ID_ImpostazioniPassword,Modifica Password,Change Password,Changer de mot de passe,Passwort ändern,Cambiar contraseña,Изменить пароль
+ID_ImpostazioniInformazioni,Informazioni sull'applicazione,Application Information,Informations sur l'application,Anwendungsinformationen,Información de la aplicación,Информация о приложении
+ID_InformazioniTesto_TXT,Questa è l’Applicazione Mobile Play Phygital,This is the Play Phygital Mobile Application,Ceci est l'application mobile Play Phygital,Dies ist die Play Phygital Mobile Anwendung,Esta es la Aplicación Móvil Play Phygital,Это мобильное приложение Play Phygital
+ID_SalvaModifiche_BTN,Salva modifiche,Save Changes,Enregistrer les modifications,Änderungen speichern,Guardar cambios,Сохранить изменения
+ID_SelezionaPOI_BTN,Filtra tipologie,Select icons,Sélectionner des icônes,Symbole auswählen,Seleccionar iconos,Выбрать значки
+ID_SelezionaPOI_TXT,Filtra tipologie,Select icons,Sélectionner des icônes,Symbole auswählen,Seleccionar iconos,Выбрать значки
+ID_VicinanzaAR_TXT,Sei vicino a :,You are close to:,Vous êtes proche de :,Sie sind in der Nähe von:,Estás cerca de:,Вы находитесь рядом с:
+ID_ARSi_BTN,Si,Yes,Oui,Ja,Sí,Да
+ID_ARNo_BTN,No,No,No,No,No,No
+ID_PaginaCommerciante_TXT,Registra Acquisto,Merchant Page,Page Commerçant,Händlerseite,Página del Comerciante,Страница Торговца
+ID_Scontrino_TXT,N. Scontrino,Receipt No.,N° de reçu,Quittungsnummer,N.º de recibo,Номер чека
+ID_Scontrino_IF,Numero Scontrino,Receipt No.,N° de reçu,Quittungsnummer,N.º de recibo,Номер чека
+ID_Importo_TXT,Importo Acquisto,Total Purchase Amount,Montant total des achats,Gesamtbetrag des Kaufs,Importe total de la compra,Общая сумма покупки
+ID_Importo_IF,"0,00€","0,00€","0,00€","0,00€","0,00€","0,00€"
+ID_Data_TXT,Data Acquisto,Date,Date,Datum,Fecha,Дата
+ID_Data_IF,01/01/2023,01/01/2023,01/01/2023,01/01/2023,01/01/2023,01/01/2023
+ID_DataInserisci_TXT,Inserisci la data,Enter the date,Entrez la date,Geben Sie das Datum ein,Introduzca la fecha,Введите дату
+ID_CategoriaMerce_TXT,Categoria Merceologia,Merchandise Category,Catégorie de marchandise,Warenkategorie,Categoría de Mercancía,Категория товара
+ID_IDCliente_TXT,Inserisci ID Cliente,Enter Customer ID,Entrez l'identifiant du client,Geben Sie die Kunden-ID ein,Introducir ID de cliente,Введите ID клиента
+ID_IDCliente_IF,1234567890,1234567890,1234567890,1234567890,1234567890,1234567890
+ID_ScannerizzaQR_BTN,Scannerizza QR Code,Scan QR Code,Scanner le code QR,QR-Code scannen,Escanear código QR,Сканировать QR-код
+ID_Conferma_BTN,Invia,Confirm,Confirmer,Bestätigen,Confirmar,Подтвердить
+ID_ScontrinoInviato_TXT,Informazioni inviate con successo,Information sent successfully,Informations envoyées avec succès,Information erfolgreich gesendet,Información enviada correctamente,Информация успешно отправлена
+ID_ScontrinoErrore_TXT,Errore durante l'invio,Error during sending,Erreur lors de l'envoi,Fehler beim Senden,Error al enviar,Ошибка при отправке
+ID_ScontrinoChiudi_BTN,Chiudi,Close,Fermer,Schließen,Cerrar,Закрыть
+ID_InvitoARegistrarsi_TXT,Registrati per salvare i preferiti.,Register to save favorites.,Inscrivez-vous pour sauvegarder les favoris.,Registriere dich um Favoriten zu speichern.,Regístrate para guardar favoritos.,Зарегистрируйтесь
+ID_LoginFallito_TXT,Login Fallito,Login failed,La connexion a échoué,Fehler bei der Anmeldung,error de inicio de sesion,Ошибка входа
+ID_Orari_TXT,Visualizza gli orari,View timetables,Voir les horaires,Fahrpläne ansehen,Ver horarios,Посмотреть расписание
+ID_TrattamentoDati,Trattamento Dati,Personal data processing,Traitement des données personnelles,Verarbeitung personenbezogener Daten,Tratamiento de datos personales,Обработка персональных данных
+ID_TrattamentoDati_TXT,Visita il sito visitgenoa.it,Visit the website visitgenoa.it,Visitez le site visitgenoa.it,Besuchen Sie die Website visitgenoa.it,Visite el sitio web visitgenoa.it,Посетите сайт visitgenoa.it.
+ID_Transazioni,Transazioni,Transactions,Transactions,Transaktionen,Actas,Транзакции
+ID_TuoiGenovini_TXT,Punti guadagnati:,Points earned:,Points gagnés:,Punkte erhalten:,Puntos ganados:,Заработанные баллы:
+ID_ScontrinoApri_BTN,Vai al sito,Open the website,Ouvrir le site Web,Öffnen Sie die Website,Abre el sitio web,открыть сайт
+ID_NoAuth_ALERT,Attenzione: autenticazione fallita,Warning: authentication failed,Attention : l'authentification a échoué,Warnung: Authentifizierung fehlgeschlagen,Advertencia: la autenticación falló,Внимание: аутентификация не удалась
+ID_NoPro_ALERT,Per eseguire l’accesso all’applicazione come Commerciante è necessario registrarsi sul sito visitgenoa.it,"To access the application as a Merchant, you need to register on the visitgenoa.it website","Pour accéder à l'application en tant que commerçant, vous devez vous inscrire sur le site visitgenoa.it","Um als Händler auf die Anwendung zugreifen zu können, müssen Sie sich auf der Website visitgenoa.it registrieren","Para acceder a la aplicación como Comerciante, es necesario registrarse en el sitio web visitgenoa.it","Чтобы получить доступ к приложению в качестве Продавца, вам необходимо зарегистрироваться на сайте visitgenoa.it."
+ID_NoUser_ALERT,Per eseguire l’accesso all’applicazione è necessario registrarsi sul sito visitgenoa.it,To access the application you need to register on the visitgenoa.it website,"Pour accéder à l'application, vous devez vous inscrire sur le site visitgenoa.it","Um auf die Anwendung zugreifen zu können, müssen Sie sich auf der Website visitgenoa.it registrieren",Para acceder a la aplicación es necesario registrarse en el sitio web visitgenoa.it,Для доступа к приложению необходимо зарегистрироваться на сайте visitgenoa.it.
+ID_PuntiNonTuristici,Informazioni Pratiche,Practical information,Informations pratiques,Praktische Information,Información práctica,Практическая информация
+ID_Descrizione,Descrizione,Description,Description,Beschreibung,Descripción,Описание
+ID_NoConnection_ALERT, Errore di connessione,Connection error,Erreur de connexion,Verbindungsfehler,Error de conexión,Ошибка подключения
+ID_Apri,Apri,Open,Ouvrir,Offen,Abrir,Открыть
+ID_Registrazione_BTN,Registrati sul portale,Register on the portal,Inscrivez-vous sur le portail,Registrieren Sie sich auf dem Portal,Regístrate en el portal,Зарегистрируйтесь на портале
+ID_Privacy,Ho letto e accettato le condizioni per il trattamento dei dati personali,I have read and accepted the conditions for the processing of personal data,J'ai lu et accepté les conditions de traitement des données personnelles,Ich habe die Bedingungen für die Verarbeitung personenbezogener Daten gelesen und akzeptiert,He leído y acepto las condiciones para el tratamiento de datos personales,Я прочитал и принял условия обработки персональных данных
+ID_Store_BTN,Vai allo Store,Go to the Store,Aller au magasin,Geh zu dem Laden,Ve a la tienda,Идти в магазин
+ID_VuoiAttivare,Vuoi attivare la fotocamera?,Do you want to activate the camera?,Voulez-vous activer la caméra?,Möchten Sie die Kamera aktivieren?,¿Quieres activar la cámara?,Вы хотите активировать камеру?
+ID_Transazioni_TITLE,Lista delle ultime transazioni,List of latest transactions,Liste des dernières transactions,Liste der letzten Transaktionen,Lista de últimas transacciones,Список последних транзакций
+ID_Benvenuto,Benvenuto,Welcome,Accueillir,Willkommen,Bienvenido,Добро пожаловать
+ID_TestoGenovini,"Benvenuti nell'app dedicata a Genova! Accumula ""Punti Genovini"" esplorando i punti di interesse o ascoltando la guida virtuale. Utilizza questi punti per ottenere sconti presso le strutture turistiche della città. Esplora Genova accumula Punti Genovini e goditi le offerte speciali!","Welcome to the app dedicated to Genoa! Accumulate ""Genovini Points"" by exploring points of interest or listening to the virtual guide. Use these points to get discounts at tourist facilities in the city. Explore Genoa accumulate Genovini Points and enjoy special offers!",Bienvenue sur l'application dédiée à Gênes ! Accumulez des «Points Genovini» en explorant les points d'intérêt ou en écoutant le guide virtuel. Utilisez ces points pour bénéficier de réductions dans les installations touristiques de la ville. Explorez Gênes accumulez des points Genovini et profitez d'offres spéciales !,"Willkommen in der Genua gewidmeten App! Sammeln Sie ""Genovini-Punkte“ indem Sie Sehenswürdigkeiten erkunden oder dem virtuellen Reiseführer zuhören. Nutzen Sie diese Punkte um Ermäßigungen in touristischen Einrichtungen der Stadt zu erhalten. Entdecken Sie Genua sammeln Sie Genovini-Punkte und genießen Sie Sonderangebote!","¡Bienvenido a la aplicación dedicada a Génova! Acumula ""Puntos Genovini"" explorando puntos de interés o escuchando la guía virtual. Utilice estos puntos para obtener descuentos en instalaciones turísticas de la ciudad. ¡Explora Génova acumula puntos Genovini y disfruta de ofertas especiales!",Добро пожаловать в приложение посвященное Генуе! Накапливайте «Очки Дженовини» исследуя достопримечательности или слушая виртуального гида. Используйте эти баллы чтобы получить скидки на туристических объектах города. Исследуйте Геную накапливайте баллы Genovini и пользуйтесь специальными предложениями!
+ID_PoiError,Errore: Impossibile scaricare i punti di interesse.,Error: Unable to download points of interest.,Erreur : Impossible de télécharger les points d'intérêt.,Fehler: Points of Interest konnten nicht heruntergeladen werden.,Error: No se pueden descargar puntos de interés.,Ошибка: невозможно загрузить достопримечательности.
+ID_Retry,Riprova,Try again,Essayer à nouveau,Versuchen Sie es erneut,Intentar otra vez,Попробуйте еще раз
+ID_DeviEssereRegistrato,Devi essere registrato sul portale per poter effettuare l'accesso,You must be registered on the portal to log in,Vous devez être inscrit sur le portail pour vous connecter,Um sich anzumelden müssen Sie im Portal registriert sein,Debes estar registrado en el portal para iniciar sesión,Для входа необходимо зарегистрироваться на портале
+ID_GetGenovini,Hai ottenuto * punti,You scored * points,Vous avez marqué * points,Sie haben * Punkte erzielt,Obtuviste * puntos,Вы накопили * баллов
+ID_Filtra,Filtra,Filter,Filtre,Filter,Filtrar,Фильтр
+ID_Legenda,Legenda,Legend,Légende,Legende,Leyenda,Легенда
+ID_Ricerca,Ricerca,Search,Recherche,Forschung,Buscar,исследовать
+ID_Cerca,Cerca,Search,Près,Nahe,Cerca,около
+ID_Decline,Declina,Decline,Refuser,Verweigern,Rechazar,Мусор
+ID_Continue,Continua,Continue,Continue,Geht weiter,Continúa,Продолжается
+ID_gps,Attiva il servizio di geolocalizzazzione per poter usufruire degli avvisi in background durante il percorso.,Activate the geolocation service to benefit from background alerts during your route.,Activez le service de géolocalisation pour bénéficier d'alertes en arrière-plan lors de votre parcours.,"Aktivieren Sie den Geolokalisierungsdienst, um während Ihrer Route von Hintergrundwarnungen zu profitieren.",Activa el servicio de geolocalización para beneficiarte de alertas en segundo plano durante tu ruta.,"Активируйте службу геолокации, чтобы получать фоновые оповещения во время вашего маршрута."
+ID_BackGps,Servizio di localizzazione in background,Background Localization service,Service de localisation en arrière-plan,Hintergrundlokalisierungsdienst,Servicio de localización en segundo plano,Служба фоновой локализации
+ID_Camera,L'autorizzazione all'uso della fotocamera è necessario per utilizzare la scansione del QR code.,Camera permission is required to use QR code scanning.,L'autorisation de l'appareil photo est requise pour utiliser la numérisation du code QR.,Für das Scannen von QR-Codes ist eine Kameraerlaubnis erforderlich.,Se requiere permiso de la cámara para utilizar el escaneo de códigos QR.,Для использования сканирования QR-кода требуется разрешение камеры.
+ID_ProgettazioneSoftware,Progettazione e realizzazione software,Software design and development,Conception et développement de logiciels,Softwareentwicklung und -realisierung,Diseño y desarrollo de software,Проектирование и разработка программного обеспечения
+ID_CollaborazioneCon,in collaborazione con,in collaboration with,en collaboration avec,in zusammenarbeit mit,en colaboración con,в сотрудничестве с
+ID_NoAR,Il tuo smartphone non supporta la Realtà Aumentata. Vuoi aprire la scheda di questo punto?,Your smartphone does not support Augmented Reality. Do you want to open the tab of this point?,Votre smartphone ne prend pas en charge la réalité augmentée. Voulez-vous ouvrir l'onglet de ce point ?,Ihr Smartphone unterstützt Augmented Reality nicht. Möchten Sie die Registerkarte dieses Punktes öffnen?,Su teléfono inteligente no es compatible con la Realidad Aumentada. ¿Quieres abrir la pestaña de este punto?,Ваш смартфон не поддерживает дополненную реальность. Хотите открыть вкладку этого пункта?
